@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"><meta name="description" content="This is Official Website of Cadet College Kohat Hacker Salmana."><meta name="author" content="Abbas Shinwari"><meta property="og:url"           content="https://facebook.com/Aminenzo.Delshinwari" /><meta property="og:type"          content="Website" /><meta property="og:title"         content="Cadet College Kohat Hacker Salmana" /><meta property="og:description"   content="This is Official Website of Cadet College Kohat Hacker Salmana." /><meta property="og:image"         content="https://cck.edu.pk/templates/img/data/Aim.png" />
+	<title>Cadet College Kohat hacker salmana - Home Page</title>
+	<link href="/templates/img/Favicon.ico" rel="icon" type="image/x-icon" /><!--SIMPLE CSS !-->
+	<link href="/templates/loaders/dark-mode.css" media="all" rel="stylesheet" />
+	<link href="/templates/loaders/social-media.css" media="all" rel="stylesheet" />
+	<link href="/css/css.css" media="all" rel="stylesheet" type="text/css" /><!-- JAVASCRIPT HERE !--><script src="/js/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script><script src="/js/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script><script src="/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script><!-- BOOTSTRAP CSS !-->
+	<link crossorigin="anonymous" href="/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" media="all" rel="stylesheet" /><!-- Font Awesome CSS -->
+	<link href="/templates/plugins/fontawesome/css/all.css" media="all" rel="stylesheet" />
+	<link href="/templates/plugins/fontawesome/css/all.min.css" media="all" rel="stylesheet" />
+	<link href="/templates/plugins/fontawesome/css/brands.css" media="all" rel="stylesheet" />
+	<link href="/templates/plugins/fontawesome/css/brands.min.css" media="all" rel="stylesheet" />
+	<link href="/templates/plugins/fontawesome/css/fontawesome.css" media="all" rel="stylesheet" />
+	<link href="/templates/plugins/fontawesome/css/fontawesome.min.css" media="all" rel="stylesheet" />
+	<link href="/templates/plugins/fontawesome/css/svg-with-js.css" media="all" rel="stylesheet" />
+	<link href="/templates/plugins/fontawesome/css/svg-with-js.min.css" media="all" rel="stylesheet" />
+	<link href="/css/css.css" rel="stylesheet" />
+	<link href="/cssLoader/css/main.css" rel="stylesheet" /><script src="/cssLoader/js/vendor/modernizr-2.6.2.min.js"></script><script src="/templates/loaders/custom.min.js"></script>
+	<style type="text/css">::-moz-selection{color: #fff;background-color: #8ebf42;}::selection{color: #fff;background-color: black;}[data-theme="dark"] ::selection {color: #fff;background-color: red;}
+      .bg-nav {
+    background-color: #061727;
+}
+[data-theme="dark"]	html, body {
+    color: white !important;
+    max-width: 100%;
+    overflow-x: hidden;
+}
+.alert-info {
+    color: #ffffff !important;
+    background-color: #132c44 !important;
+    border-color: #061727 !important;
+}
+html, body {
+    color: black !important;
+    max-width: 100%;
+    overflow-x: hidden;
+}
+.img {
+    transition: all .6s ease-in-out !important;
+    box-shadow: 0 0 2px black !important;
+    border-radius: 12px !important;
+}
+.img:hover { 
+          transform: scale(1.1)!important;
+box-shadow: 0 0 6px black!important;
+      }
+.alert-dismissible {
+  padding-right: 0rem !important;
+}
+[data-theme="dark"] .modal-header {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: start;
+    align-items: flex-start;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    padding: 1rem 1rem;
+    border-bottom: 1px solid #1c1c1c;
+    border-top-left-radius: calc(0.3rem - 1px);
+    border-top-right-radius: calc(0.3rem - 1px);
+}
+[data-theme="dark"] .modal-footer {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-flex-pack: end;
+    justify-content: flex-end;
+    padding: 0.75;
+    border-top: 1px solid #1c1c1c;
+    border-top-left-radius: calc(0.3rem - 1px);
+    border-top-right-radius: calc(0.3rem - 1px);
+}
+[data-theme="dark"] .modal-dialog {
+    max-width: 40%;
+    margin: 1.75rem auto;
+}
+ .modal-dialog {
+    max-width: 40% !important;
+    margin: 1.75rem auto;
+}
+[data-theme="dark"] .btn-secondary {
+    color: #fff;
+    background-color: #101010;
+    border-color: #242424;
+}
+.modal-title {
+  text-align: center;
+}
+.navbar-light .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width='30' height='30' viewBox='0 0 30 30'><path stroke='rgba(240, 240, 240)' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/></svg>") !important;
+}
+.fa-facebook-f {
+    background: #10295c;
+}
+.modal-dialog {
+    max-width: 70% !important;
+    margin: 1.75rem auto;
+}
+	</style>
+</head>
+<body>
+<div id="loader-wrapper">
+<div id="loader"></div>
+
+<div class="loader-section section-left"></div>
+
+<div class="loader-section section-right"></div>
+</div>
+
+	<div class="bg-nav">
+	<a herf="##"><img data-toggle="modal" data-target="#exampleModalCenter" width="10%" height="10%" style="position:relative; left:40px;" src="/templates/img/CCK.png" align="left"/></a><h1><b style="color: white; position:relative; top:40px; left: 70px;">Cadet College Kohat Hacker Salmana</b></h1></br>
+	<div style="position: relative; top: -35px; right: -980px;"><a href="https://www.facebook.com/cck64" target="_blank" class="scl-btn scl-crcl shadow fab fa-facebook-f"></a></div>
+	<br />
+<!-- <nav class="navbar navbar-expand-lg navbar-light bg-light"> !--></div>
+
+<nav class="navbar navbar-expand-lg navbar-light bg-nav"><br />
+<button aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation" class="text-black navbar-toggler" data-target="#navbarNav" data-toggle="collapse" style="box-shadow: 0 0 1px white, 0 0 1px white;" type="button"></button>
+
+<div class="collapse navbar-collapse" id="navbarNav">
+<ul class="navbar-nav" style=" position: relative; left: 185px;">
+	<li>
+<style>
+.mydropdowncss:hover .dropdown-menu {
+display: block;
+margin-top: 0; 
+text-transform: uppercase;
+}
+</style>
+	  <div class="dropdown mydropdowncss">
+	  
+<a style="text-transform: uppercase; text-decoration:none; color:white;" onclick="home()" class="btn btn-link dropdown-toggle" data-toggle="dropdown" href="http://cck.edu.pk/">Home</a>
+<div class="bg-light dropdown-menu">
+<a class="btn btn-link bg-light dropdown-item" href="http://cck.edu.pk/PostSearch/1"><div style="text-decoration:none;" class="btn btn-link">Aim</div></a>
+<a class="btn btn-link bg-light dropdown-item" href="http://cck.edu.pk/PostSearch/5"><div style="text-decoration:none;" class="btn btn-link">History</div></a>
+<a class="btn btn-link bg-light dropdown-item" href="http://cck.edu.pk/PostSearch/10"><div style="text-decoration:none;" class="btn btn-link">Board Of Governors</div></a>
+	 <a class="btn btn-link bg-light dropdown-item" href="http://cck.edu.pk/PostSearch/12"><div style="text-decoration:none;" class="btn btn-link">Faculty</div></a>
+	 <a class="btn btn-link bg-light dropdown-item" href="http://cck.edu.pk/PostSearch/72"><div style="text-decoration:none;" class="btn btn-link">Administrative Staff</div></a>
+	 <a class="btn btn-link bg-light dropdown-item" href="http://cck.edu.pk/Military"><div style="text-decoration:none;" class="btn btn-link">Military Staff</div></a>
+	
+	  </div>
+</div>
+</li>
+<li class="nav-item active">
+	  <div class="dropdown mydropdowncss">
+<a style="text-transform: uppercase; text-decoration:none; color:white;" class="btn btn-link dropdown-toggle mob-news" data-toggle="dropdown" href="http://cck.edu.pk/">Latest News</a>
+<div class="bg-light dropdown-menu">
+<a class="btn btn-link bg-light dropdown-item" href="/PostSearch/7"><div style="text-decoration:none;" class="btn btn-link">Arrival Programme, 8th Class (60 Entry) Amended</div></a><a class="btn btn-link bg-light dropdown-item" href="Lt.Gen Shakir Ullah (HI) visited his alma mater."><div style="text-decoration:none;" class="btn btn-link">Lt.Gen. Shakir Ullah Khattak(HI) visited his alma mater on 22nd Feb,2024.</div></a><a class="btn btn-link bg-light dropdown-item" href="/PostSearch/77"><div style="text-decoration:none;" class="btn btn-link">ALL PAKISTAN BILINGUAL DECLAMATION CONTEST -  2023</div></a><a class="btn btn-link bg-light dropdown-item" href="https://fb.watch/iFkoxBJUSB"><div style="text-decoration:none;" class="btn btn-link">President's House Visit (EXCURSION 2023)</div></a><a class="btn btn-link bg-light dropdown-item" href="/templates/articles/gocvisit23.html"><div style="text-decoration:none;" class="btn btn-link">Ex GOC 9 DIV Maj General Muhammad Ahsan Khattak Visit to CCK.</div></a><a class="btn btn-link bg-light dropdown-item" href="https://facebook.com/cck64"><div style="text-decoration:none;" class="btn btn-link">COLLEGE FACEBOOK PAGE</div></a><a class="btn btn-link bg-light dropdown-item" href="/PostSearch/9"><div style="text-decoration:none;" class="btn btn-link">TOP THREE POSITIONS IN BISE- KOHAT (HSSC-II 2023) CLINCHED BY CCK CADETS</div></a><a class="btn btn-link bg-light dropdown-item" href="/postsearch/6"><div style="text-decoration:none;" class="btn btn-link">TOP TWO POSITIONS IN BISE- KOHAT (SSC-2023) CLINCHED BY CCK CADETS</div></a><a class="btn btn-link bg-light dropdown-item" href="PostSearch/70"><div style="text-decoration:none;" class="btn btn-link">Archives</div></a>
+</div>
+</div>
+</li>
+<script>
+var mobile = (/iphone|ipod|android|blackberry|mini|windows\sce|palm/i.test(navigator.userAgent.toLowerCase()));  
+    if (mobile) { 
+        $(".mob-news").css("display", "inline");
+    }  else {
+        $(".mob-news").css("display", "none");
+    }
+    
+</script>
+<script>
+function home() {
+      window.location.href = "/"
+   }
+
+</script>
+<li class="nav-item active">
+	  <div class="dropdown mydropdowncss">
+<a style="text-transform: uppercase; text-decoration:none; color:white;" class="btn btn-link dropdown-toggle" data-toggle="dropdown" href="">Academics</a>
+<div class="bg-light dropdown-menu">
+	  <a class="btn btn-link bg-light dropdown-item" href="http://cck.edu.pk/PostSearch/6"><div style="text-decoration:none;" class="btn btn-link">SSC Result</div></a>
+	  <a class="btn btn-link bg-light dropdown-item" href="http://cck.edu.pk/PostSearch/9"><div style="text-decoration:none;" class="btn btn-link">HSSC Result</div></a>
+	 <!-- <a class="btn btn-link bg-light dropdown-item" href="http://cck.edu.pk/PostSearch/2"><div style="text-decoration:none;" class="btn btn-link">Overall Board Result</div></a>
+      
+          <a class="btn btn-link bg-light dropdown-item" href="/sscresultEntry.php"><div style="text-decoration:none;" class="btn btn-link">Terminal Results</div></a>
+
+ -->
+  
+  </div>
+</div>
+</li>
+
+<li class="nav-item active">
+	  <div class="dropdown mydropdowncss">
+<a style="text-transform: uppercase; text-decoration:none; color:white;" class="btn btn-link dropdown-toggle" data-toggle="dropdown" href="">Facilities</a>
+<div class="bg-light dropdown-menu">
+      <a class="btn btn-link bg-light dropdown-item" href="http://cck.edu.pk/PostSearch/4"><div style="text-decoration:none;" class="btn btn-link">Houses</div></a>
+	  <a class="btn btn-link bg-light dropdown-item" href="http://cck.edu.pk/PostSearch/13"><div style="text-decoration:none;" class="btn btn-link">Sports</div></a>
+	  <a class="btn btn-link bg-light dropdown-item" href="http://cck.edu.pk/PostSearch/14"><div style="text-decoration:none;" class="btn btn-link">Library</div></a>
+	  <a class="btn btn-link bg-light dropdown-item" href="http://cck.edu.pk/PostSearch/67"><div style="text-decoration:none;" class="btn btn-link">Gymnasium</div></a>
+	  <a class="btn btn-link bg-light dropdown-item" href="http://cck.edu.pk/PostSearch/65"><div style="text-decoration:none;" class="btn btn-link">Swimming Pool</div></a>
+	  <a class="btn btn-link bg-light dropdown-item" href="/postsearch/63"><div style="text-decoration:none;" class="btn btn-link">Hospital</div></a>
+
+
+  </div>
+</div>
+</li>
+<!-- <li class="nav-item active">
+	  <div class="dropdown mydropdowncss">
+<a style="text-transform: uppercase; text-decoration:none; color:white;" class="btn btn-link dropdown-toggle" data-toggle="dropdown" href="">Houses</a>
+<div class="bg-light dropdown-menu">
+<a class="btn btn-link bg-light dropdown-item" href="http://cck.edu.pk/PostSearch/25"><div style="text-decoration:none;" class="btn btn-link">Khushal House</div></a>
+<a class="btn btn-link bg-light dropdown-item" href="http://cck.edu.pk/PostSearch/26"><div style="text-decoration:none;" class="btn btn-link">Iqbal House</div></a>
+<a class="btn btn-link bg-light dropdown-item" href="http://cck.edu.pk/PostSearch/27"><div style="text-decoration:none;" class="btn btn-link">Jinnah House</div></a>
+<a class="btn btn-link bg-light dropdown-item" href="http://cck.edu.pk/PostSearch/28"><div style="text-decoration:none;" class="btn btn-link">Munawar House</div></a>
+<a class="btn btn-link bg-light dropdown-item" href="http://cck.edu.pk/PostSearch/29"><div style="text-decoration:none;" class="btn btn-link">Rustam House</div></a>
+<a class="btn btn-link bg-light dropdown-item" href="http://cck.edu.pk/PostSearch/30"><div style="text-decoration:none;" class="btn btn-link">Ayub House</div></a>
+<a class="btn btn-link bg-light dropdown-item" href="http://cck.edu.pk/PostSearch/31"><div style="text-decoration:none;" class="btn btn-link">Junior House</div></a>
+  </div>
+</div>
+</li> !-->
+<li class="nav-item active">
+	  <div class="dropdown mydropdowncss">
+<a style="text-transform: uppercase; text-decoration:none; color:white;" class="btn btn-link dropdown-toggle" data-toggle="dropdown" href="">Events</a>
+<div class="bg-light dropdown-menu">
+	  <a class="btn btn-link bg-light dropdown-item" href="http://cck.edu.pk/PostSearch/74"><div style="text-decoration:none;" class="btn btn-link">Parents Day</div></a>
+	  <a class="btn btn-link bg-light dropdown-item" href="http://cck.edu.pk/PostSearch/15"><div style="text-decoration:none;" class="btn btn-link">Inter House Competitions</div></a>
+	  <a class="btn btn-link bg-light dropdown-item" href="http://cck.edu.pk/PostSearch/75"><div style="text-decoration:none;" class="btn btn-link">Re Union</div></a>
+	  <!-- <a class="btn btn-link bg-light dropdown-item" href="http://cck.edu.pk/NaatQirat.php"><div style="text-decoration:none;" class="btn btn-link">Inter House Naat & Qirat</div></a> !-->
+  </div>
+</div>
+</li>
+
+<li class="nav-item active">
+	  <div class="dropdown mydropdowncss">
+<a style="text-transform: uppercase; text-decoration:none; color:white;" class="btn btn-link dropdown-toggle" data-toggle="dropdown" href="">Admission</a>
+<div class="bg-light dropdown-menu">
+<!-- <a class="btn btn-link bg-light dropdown-item" href="http://cck.edu.pk/PostSearch/17"><div style="text-decoration:none;" class="btn btn-link">Mechanism</div></a> 
+ <a class="btn btn-link bg-light dropdown-item" href="http://cck.edu.pk/templates/articles/81-8th Class Result.html"><div style="text-decoration:none;" class="btn btn-link">Entry Test Result </div></a>-->
+	<!--  <a class="btn btn-link bg-light dropdown-item" href="http://cck.edu.pk/PostSearch/18"><div style="text-decoration:none;" class="btn btn-link">Downloads</div></a> -->
+	  <a class="btn btn-link bg-light dropdown-item"a href="http://cck.edu.pk/account"><div style="text-decoration:none;" class="btn btn-link">Online Admission</div></a>
+	  <a class="btn btn-link bg-light dropdown-item" href="http://cck.edu.pk/PostSearch/8"><div style="text-decoration:none;" class="btn btn-link">Admission Advertisement</div></a>
+	  <a class="btn btn-link bg-light dropdown-item" href="http://cck.edu.pk/PostSearch/80"><div style="text-decoration:none;" class="btn btn-link">Fee Structure</div></a>
+	<!--  <a class="btn btn-link bg-light dropdown-item"a href="/Files/aform11.docx"><div style="text-decoration:none;" class="btn btn-link">Admission Form (11Class)</div></a> -->
+<a class="btn btn-link bg-light dropdown-item" href="http://cck.edu.pk/Files/papers.doc"><div style="text-decoration:none;" class="btn btn-link">Prev Papers </div></a>
+<!-- <a class="btn btn-link bg-light dropdown-item" href="http://cck.edu.pk/OnlineAdmission"><div style="text-decoration:none;" class="btn btn-link">Online Admission</div></a> -->
+<!--	  <a class="btn btn-link bg-light dropdown-item" href="http://cck.edu.pk/PostSearch/33"><div style="text-decoration:none;" class="btn btn-link">Online Admission Guide</div></a> -->
+
+	  </div>
+</div>
+</li>
+
+</li>
+<li class="nav-item active">
+<div class="dropdown mydropdowncss">
+<a style="text-transform: uppercase; text-decoration:none; color:white;" class="btn btn-link dropdown-toggle" data-toggle="dropdown" href="">Cadets Info</a>
+<div class="bg-light dropdown-menu">
+<a class="btn btn-link bg-light dropdown-item" href="http://cck.edu.pk/PostSearch/16"><div style="text-decoration:none;" class="btn btn-link">Photo Gallery</div></a>
+<a class="btn btn-link bg-light dropdown-item" href="http://cck.edu.pk/PostSearch/56"><div style="text-decoration:none;" class="btn btn-link">Honour Roll</div></a>
+<!-- <a class="btn btn-link bg-light dropdown-item" href="/postsearch/56"><div style="text-decoration:none;" class="btn btn-link">Honour Roll 2022</div></a>
+
+<a class="btn btn-link bg-light dropdown-item" href="/postsearch/52"><div style="text-decoration:none;" class="btn btn-link">SCIENCE CLUB</div></a>
+
+ -->
+<a class="btn btn-link bg-light dropdown-item" href="/templates/articles/97-excadettest.html"><div style="text-decoration:none;" class="btn btn-link">Ex Cadets Placement</div></a>
+
+
+</div>
+</div>
+</li>
+ <!--<li class="nav-item active">
+<div class="dropdown mydropdowncss">
+<a style="text-transform: uppercase; text-decoration:none; color:white;" class="btn btn-link" href="http://cck.edu.pk/tour">360 Tour</a>
+</div>
+</li> --!> 
+<li class="nav-item active">
+	  <div class="dropdown mydropdowncss">
+<a style="text-transform: uppercase; text-decoration:none; color:white;" class="btn btn-link dropdown-toggle" data-toggle="dropdown" href="">Account</a>
+<div class="bg-light dropdown-menu">
+	  <a class="btn btn-link bg-light dropdown-item" href="/account?login"><div style="text-decoration:none;" class="btn btn-link">Login</div></a>
+	  <a class="btn btn-link bg-light dropdown-item" href="/account?register"><div style="text-decoration:none;" class="btn btn-link">Register</div></a>
+  </div>
+</div>
+</li>
+<!-- <li class="nav-item active">
+	  <div class="dropdown mydropdowncss">
+<a style="text-transform: uppercase; text-decoration:none; color:white;" class="btn btn-link dropdown-toggle" data-toggle="dropdown" href="">Settings</a>
+
+<div class="bg-light dropdown-menu">
+<div style="" class="custom-control custom-switch">
+            <input type="checkbox" class="custom-control-input" id="darkSwitch">
+            <label class="custom-control-label bg-light text-black" for="darkSwitch">Dark Mode</label>
+          </div>
+         <script src="/templates/loaders/darkmode-switch.min.js"></script>
+  </div>
+</div>
+</li> !-->
+ <!-- <div style="position: absolute; right: 400px;" class="nav-link">
+       <div style="position: absolute; right: 400px;" class="nav-link">
+          <div style="align: right;" class="custom-control custom-switch">
+            <input type="checkbox" class="custom-control-input" id="darkSwitch">
+            <label class="text-black custom-control-label" for="darkSwitch">Dark Mode</label>
+          </div>
+         <script src="/templates/loaders/darkmode-switch.min.js"></script>
+        </div> !--></li>
+</ul>
+</div>
+</nav>
+
+<p><html>
+<head><meta charset="us-ascii">
+	<title></tit
